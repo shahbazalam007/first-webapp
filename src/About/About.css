@@ -1,0 +1,7 @@
+.about{
+    text-decoration: underline;
+    text-decoration-thickness: from-font;
+    text-align: center;
+    /* margin-top: 100px; */
+    margin: 80px
+}
